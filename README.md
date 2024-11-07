@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mohammedjisam/LeetCode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohammedjisam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Mohammedjisam/LeetCode/tree/master/0217-contains-duplicate) |
+| [1137-height-checker](https://github.com/Mohammedjisam/LeetCode/tree/master/1137-height-checker) |
 | [3221-find-the-peaks](https://github.com/Mohammedjisam/LeetCode/tree/master/3221-find-the-peaks) |
 | [3311-ant-on-the-boundary](https://github.com/Mohammedjisam/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mohammedjisam/LeetCode/tree/master/0217-contains-duplicate) |
+| [1137-height-checker](https://github.com/Mohammedjisam/LeetCode/tree/master/1137-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/Mohammedjisam/LeetCode/tree/master/3221-find-the-peaks) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Mohammedjisam/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
