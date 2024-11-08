@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Mohammedjisam/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Mohammedjisam/LeetCode/tree/master/0070-climbing-stairs) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohammedjisam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Mohammedjisam/LeetCode/tree/master/0217-contains-duplicate) |
 | [1137-height-checker](https://github.com/Mohammedjisam/LeetCode/tree/master/1137-height-checker) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3221-find-the-peaks](https://github.com/Mohammedjisam/LeetCode/tree/master/3221-find-the-peaks) |
 | [3311-ant-on-the-boundary](https://github.com/Mohammedjisam/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
