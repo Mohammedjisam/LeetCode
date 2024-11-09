@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Mohammedjisam/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Mohammedjisam/LeetCode/tree/master/0070-climbing-stairs) |
+| [2083-three-divisors](https://github.com/Mohammedjisam/LeetCode/tree/master/2083-three-divisors) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -61,9 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Mohammedjisam/LeetCode/tree/master/2083-three-divisors) |
 | [3221-find-the-peaks](https://github.com/Mohammedjisam/LeetCode/tree/master/3221-find-the-peaks) |
 ## Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Mohammedjisam/LeetCode/tree/master/1137-height-checker) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Mohammedjisam/LeetCode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
