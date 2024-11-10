@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mohammedjisam/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Mohammedjisam/LeetCode/tree/master/0070-climbing-stairs) |
 | [2083-three-divisors](https://github.com/Mohammedjisam/LeetCode/tree/master/2083-three-divisors) |
+| [2556-convert-the-temperature](https://github.com/Mohammedjisam/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Dynamic Programming
 |  |
