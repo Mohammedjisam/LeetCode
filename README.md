@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Mohammedjisam/LeetCode/tree/master/0058-length-of-last-word) |
 | [0742-to-lower-case](https://github.com/Mohammedjisam/LeetCode/tree/master/0742-to-lower-case) |
+| [1205-defanging-an-ip-address](https://github.com/Mohammedjisam/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [2365-percentage-of-letter-in-string](https://github.com/Mohammedjisam/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [3312-number-of-changing-keys](https://github.com/Mohammedjisam/LeetCode/tree/master/3312-number-of-changing-keys) |
 ## Array
