@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Mohammedjisam/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1944-truncate-sentence](https://github.com/Mohammedjisam/LeetCode/tree/master/1944-truncate-sentence) |
 | [2365-percentage-of-letter-in-string](https://github.com/Mohammedjisam/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/Mohammedjisam/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mohammedjisam/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3312-number-of-changing-keys](https://github.com/Mohammedjisam/LeetCode/tree/master/3312-number-of-changing-keys) |
 ## Array
