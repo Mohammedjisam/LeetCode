@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Mohammedjisam/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Mohammedjisam/LeetCode/tree/master/0070-climbing-stairs) |
+| [1086-divisor-game](https://github.com/Mohammedjisam/LeetCode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2083-three-divisors](https://github.com/Mohammedjisam/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mohammedjisam/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohammedjisam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1086-divisor-game](https://github.com/Mohammedjisam/LeetCode/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mohammedjisam/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mohammedjisam/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Mohammedjisam/LeetCode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Mohammedjisam/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
