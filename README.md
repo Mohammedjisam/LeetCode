@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mohammedjisam/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Mohammedjisam/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Mohammedjisam/LeetCode/tree/master/0070-climbing-stairs) |
 | [1086-divisor-game](https://github.com/Mohammedjisam/LeetCode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohammedjisam/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mohammedjisam/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Mohammedjisam/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mohammedjisam/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohammedjisam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
