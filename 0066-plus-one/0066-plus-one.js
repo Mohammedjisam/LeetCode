@@ -3,13 +3,7 @@
  * @return {number[]}
  */
 var plusOne = function(digits) {
-    for (let i = digits.length - 1; i >= 0; i--) {
-        digits[i]++;
-        if (digits[i] < 10) {
-            return digits;
-             }
-        digits[i] = 0; 
-    }
-    digits.unshift(1);
-    return digits;
+    let numStr = digits.join(""); 
+    let incrementedNum = BigInt(numStr) + BigInt(1);
+    return incrementedNum.toString().split("").map(Number);
 };
