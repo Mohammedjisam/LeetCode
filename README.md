@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Mohammedjisam/LeetCode/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1651-shuffle-string](https://github.com/Mohammedjisam/LeetCode/tree/master/1651-shuffle-string) |
+| [1833-find-the-highest-altitude](https://github.com/Mohammedjisam/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Mohammedjisam/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Mohammedjisam/LeetCode/tree/master/1944-truncate-sentence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1833-find-the-highest-altitude](https://github.com/Mohammedjisam/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [3311-ant-on-the-boundary](https://github.com/Mohammedjisam/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Enumeration
 |  |
