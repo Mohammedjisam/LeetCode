@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mohammedjisam/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Mohammedjisam/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1137-height-checker](https://github.com/Mohammedjisam/LeetCode/tree/master/1137-height-checker) |
+| [1319-unique-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1651-shuffle-string](https://github.com/Mohammedjisam/LeetCode/tree/master/1651-shuffle-string) |
 | [1833-find-the-highest-altitude](https://github.com/Mohammedjisam/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mohammedjisam/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Mohammedjisam/LeetCode/tree/master/0217-contains-duplicate) |
+| [1319-unique-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/Mohammedjisam/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mohammedjisam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
