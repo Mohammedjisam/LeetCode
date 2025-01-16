@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mohammedjisam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mohammedjisam/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3312-number-of-changing-keys](https://github.com/Mohammedjisam/LeetCode/tree/master/3312-number-of-changing-keys) |
+| [3379-score-of-a-string](https://github.com/Mohammedjisam/LeetCode/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
 | ------- |
