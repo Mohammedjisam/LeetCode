@@ -5,6 +5,5 @@
  */
 var truncateSentence = function(s, k) {
     let arr=s.split(" ").slice(0,k).join(" ")
-    
     return arr
 };
