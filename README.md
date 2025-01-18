@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Mohammedjisam/LeetCode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Mohammedjisam/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Mohammedjisam/LeetCode/tree/master/1651-shuffle-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1944-truncate-sentence](https://github.com/Mohammedjisam/LeetCode/tree/master/1944-truncate-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2365-percentage-of-letter-in-string](https://github.com/Mohammedjisam/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1651-shuffle-string](https://github.com/Mohammedjisam/LeetCode/tree/master/1651-shuffle-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/Mohammedjisam/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Mohammedjisam/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Mohammedjisam/LeetCode/tree/master/1944-truncate-sentence) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Mohammedjisam/LeetCode/tree/master/0217-contains-duplicate) |
 | [1319-unique-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Mohammedjisam/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mohammedjisam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Mohammedjisam/LeetCode/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/Mohammedjisam/LeetCode/tree/master/1137-height-checker) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Mohammedjisam/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mohammedjisam/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -270,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohammedjisam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
