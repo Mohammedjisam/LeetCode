@@ -9,7 +9,6 @@ var heightChecker = function(heights) {
             if(heights[i]!==expected[i]){
                 count++;
             }
-       
     } return count;
     
 };
