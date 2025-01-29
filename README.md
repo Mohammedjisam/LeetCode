@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Mohammedjisam/LeetCode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Mohammedjisam/LeetCode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Mohammedjisam/LeetCode/tree/master/0742-to-lower-case) |
+| [0822-unique-morse-code-words](https://github.com/Mohammedjisam/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1205-defanging-an-ip-address](https://github.com/Mohammedjisam/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/Mohammedjisam/LeetCode/tree/master/1651-shuffle-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Mohammedjisam/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Mohammedjisam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Mohammedjisam/LeetCode/tree/master/0506-relative-ranks) |
+| [0822-unique-morse-code-words](https://github.com/Mohammedjisam/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1137-height-checker](https://github.com/Mohammedjisam/LeetCode/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mohammedjisam/LeetCode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Mohammedjisam/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Mohammedjisam/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0822-unique-morse-code-words](https://github.com/Mohammedjisam/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1319-unique-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohammedjisam/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
