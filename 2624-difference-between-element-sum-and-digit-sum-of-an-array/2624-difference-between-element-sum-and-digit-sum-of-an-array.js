@@ -3,12 +3,9 @@
  * @return {number}
  */
 var differenceOfSum = function(nums) {
-  
-
-    let sum=nums.reduce((acc,curr)=>{
+     let sum=nums.reduce((acc,curr)=>{
         return acc=acc+curr
     })
-    // let diff=nums.toString().spilt("")
    let diff= nums.join('').split('').map(Number)
        let digitSum= diff.reduce((acc,curr)=>{
             return acc=acc+curr;
