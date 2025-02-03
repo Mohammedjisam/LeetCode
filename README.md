@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mohammedjisam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohammedjisam/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mohammedjisam/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Mohammedjisam/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/Mohammedjisam/LeetCode/tree/master/3221-find-the-peaks) |
 | [3311-ant-on-the-boundary](https://github.com/Mohammedjisam/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mohammedjisam/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mohammedjisam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Mohammedjisam/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3311-ant-on-the-boundary](https://github.com/Mohammedjisam/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Prefix Sum
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Mohammedjisam/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mohammedjisam/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Mohammedjisam/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mohammedjisam/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Number Theory
 |  |
