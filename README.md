@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Mohammedjisam/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Mohammedjisam/LeetCode/tree/master/1944-truncate-sentence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mohammedjisam/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/Mohammedjisam/LeetCode/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mohammedjisam/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Mohammedjisam/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mohammedjisam/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2502-sort-the-people](https://github.com/Mohammedjisam/LeetCode/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mohammedjisam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3324-split-the-array](https://github.com/Mohammedjisam/LeetCode/tree/master/3324-split-the-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Mohammedjisam/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mohammedjisam/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mohammedjisam/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Mohammedjisam/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3324-split-the-array](https://github.com/Mohammedjisam/LeetCode/tree/master/3324-split-the-array) |
