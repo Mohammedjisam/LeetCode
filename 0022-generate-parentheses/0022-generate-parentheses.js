@@ -2,20 +2,20 @@
  * @param {number} n
  * @return {string[]}
  */
-var generateParenthesis = function(n) {
-    let result = [];
-    function backtrack(current, openCount, closeCount) {
-        if (current.length === 2 * n) {
-            result.push(current);
-            return;
+var generateParenthesis = function (n) {
+    let res = [];
+    let backtrack = (cur, o, c) => {
+        if (o == 0 && c == 0) { res.push(cur.slice()); return; }
+        if (c < o) return;
+
+        if (o > 0) {
+            backtrack(cur + "(", o - 1, c);
         }
-        if (openCount < n) {
-            backtrack(current + "(", openCount + 1, closeCount);
+        if (c > o)
+        {
+            backtrack(cur + ")", o, c - 1);
         }
-        if (closeCount < openCount) {
-            backtrack(current + ")", openCount, closeCount + 1);
-        }
-    }
-    backtrack("", 0, 0);
-    return result;
+    };
+    backtrack([], n, n);
+    return res;
 };
