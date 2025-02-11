@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Mohammedjisam/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Mohammedjisam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Mohammedjisam/LeetCode/tree/master/0506-relative-ranks) |
+| [0682-baseball-game](https://github.com/Mohammedjisam/LeetCode/tree/master/0682-baseball-game) |
 | [0822-unique-morse-code-words](https://github.com/Mohammedjisam/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1137-height-checker](https://github.com/Mohammedjisam/LeetCode/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Mohammedjisam/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Mohammedjisam/LeetCode/tree/master/0682-baseball-game) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mohammedjisam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Mohammedjisam/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3311-ant-on-the-boundary](https://github.com/Mohammedjisam/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Mohammedjisam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Mohammedjisam/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mohammedjisam/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Mohammedjisam/LeetCode/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
