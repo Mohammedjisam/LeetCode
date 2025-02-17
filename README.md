@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2083-three-divisors](https://github.com/Mohammedjisam/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2556-convert-the-temperature](https://github.com/Mohammedjisam/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Mohammedjisam/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Mohammedjisam/LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohammedjisam/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2502-sort-the-people](https://github.com/Mohammedjisam/LeetCode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohammedjisam/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Mohammedjisam/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Linked List
 |  |
