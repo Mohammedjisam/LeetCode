@@ -1,5 +1,7 @@
 function productExceptSelf(nums: number[]): number[] {
-    if (nums.length < 2 || nums.length > 100000) throw new Error('Wrong array size');
+    if (nums.length < 2 || nums.length > 100000) {
+        console.log("wrong size array")
+    }
     let left = 1;
     let right = 1;
     const answer: number[] = Array(nums.length).fill(1);
