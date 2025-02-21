@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mohammedjisam/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Mohammedjisam/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Mohammedjisam/LeetCode/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mohammedjisam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1086-divisor-game](https://github.com/Mohammedjisam/LeetCode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2083-three-divisors](https://github.com/Mohammedjisam/LeetCode/tree/master/2083-three-divisors) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Mohammedjisam/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Mohammedjisam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Mohammedjisam/LeetCode/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mohammedjisam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Mohammedjisam/LeetCode/tree/master/0682-baseball-game) |
 | [0822-unique-morse-code-words](https://github.com/Mohammedjisam/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0932-monotonic-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0932-monotonic-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mohammedjisam/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Mohammedjisam/LeetCode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/Mohammedjisam/LeetCode/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mohammedjisam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/Mohammedjisam/LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohammedjisam/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
