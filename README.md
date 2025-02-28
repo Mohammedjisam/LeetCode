@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mohammedjisam/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Mohammedjisam/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Mohammedjisam/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammedjisam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1086-divisor-game](https://github.com/Mohammedjisam/LeetCode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Mohammedjisam/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Mohammedjisam/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Mohammedjisam/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mohammedjisam/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Mohammedjisam/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohammedjisam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Mohammedjisam/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mohammedjisam/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2551-apply-operations-to-an-array) |
