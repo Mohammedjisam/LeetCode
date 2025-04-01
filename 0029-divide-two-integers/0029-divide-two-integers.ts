@@ -5,6 +5,7 @@ function divide(dividend: number, divisor: number): number {
         if (dividend === -2147483648) return 2147483647;
         return -dividend;
     }
+   
     let isNegative = (dividend < 0) !== (divisor < 0);
     let a = Math.abs(dividend);
     let b = Math.abs(divisor);
