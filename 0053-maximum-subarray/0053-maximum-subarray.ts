@@ -5,5 +5,6 @@ function maxSubArray(nums: number[]): number {
         currentSum = Math.max(nums[i], currentSum + nums[i]);
         maxSum = Math.max(maxSum, currentSum);
     }
+    
     return maxSum;
 }
