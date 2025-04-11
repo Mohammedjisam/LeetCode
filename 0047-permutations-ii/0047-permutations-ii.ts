@@ -9,12 +9,8 @@ function permuteUnique(nums: number[]): number[][] {
         }
 
         for (let i = 0; i < nums.length; i++) {
-            // Skip used elements
             if (used[i]) continue;
-
-            // Skip duplicates
             if (i > 0 && nums[i] === nums[i - 1] && !used[i - 1]) continue;
-
             used[i] = true;
             path.push(nums[i]);
 
