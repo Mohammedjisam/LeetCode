@@ -1,6 +1,3 @@
-/**
- Do not return anything, modify nums in-place instead.
- */
 function rotate(nums: number[], k: number): void {
     k %= nums.length;
     function reverse(start: number, end: number): void {
