@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohammedjisam/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Mohammedjisam/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Mohammedjisam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mohammedjisam/LeetCode/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/Mohammedjisam/LeetCode/tree/master/0087-scramble-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mohammedjisam/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Mohammedjisam/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Mohammedjisam/LeetCode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Mohammedjisam/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Mohammedjisam/LeetCode/tree/master/0048-rotate-image) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohammedjisam/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0045-jump-game-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Mohammedjisam/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
