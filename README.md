@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Mohammedjisam/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mohammedjisam/LeetCode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Mohammedjisam/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Mohammedjisam/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Mohammedjisam/LeetCode/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Mohammedjisam/LeetCode/tree/master/0093-restore-ip-addresses) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Mohammedjisam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Mohammedjisam/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Mohammedjisam/LeetCode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Mohammedjisam/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mohammedjisam/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mohammedjisam/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Mohammedjisam/LeetCode/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/Mohammedjisam/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Mohammedjisam/LeetCode/tree/master/0682-baseball-game) |
 | [2551-apply-operations-to-an-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2551-apply-operations-to-an-array) |
