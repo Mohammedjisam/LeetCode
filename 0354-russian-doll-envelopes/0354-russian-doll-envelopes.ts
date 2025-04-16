@@ -7,7 +7,6 @@ function maxEnvelopes(envelopes: number[][]): number {
     });
     const heights = envelopes.map(env => env[1]);
     const dp: number[] = [];
-
     for (let h of heights) {
         let left = 0, right = dp.length;
         while (left < right) {
