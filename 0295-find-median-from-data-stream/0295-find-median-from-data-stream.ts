@@ -62,7 +62,6 @@ class Heap {
         }
     }
 }
-
 class MedianFinder {
     private left: Heap;  // Max Heap
     private right: Heap; // Min Heap
@@ -83,7 +82,6 @@ class MedianFinder {
             this.left.push(this.right.pop());
         }
     }
-
     findMedian(): number {
         if (this.left.size() > this.right.size()) {
             return this.left.peek();
