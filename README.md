@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mohammedjisam/LeetCode/tree/master/0682-baseball-game) |
 | [0822-unique-morse-code-words](https://github.com/Mohammedjisam/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0932-monotonic-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0932-monotonic-array) |
+| [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Mohammedjisam/LeetCode/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1137-height-checker](https://github.com/Mohammedjisam/LeetCode/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mohammedjisam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0822-unique-morse-code-words](https://github.com/Mohammedjisam/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Mohammedjisam/LeetCode/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1319-unique-number-of-occurrences](https://github.com/Mohammedjisam/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohammedjisam/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Mohammedjisam/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Mohammedjisam/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Mohammedjisam/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Mohammedjisam/LeetCode/tree/master/0389-find-the-difference) |
+| [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Mohammedjisam/LeetCode/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Monotonic Stack
 |  |
