@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mohammedjisam/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohammedjisam/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mohammedjisam/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Mohammedjisam/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3798-longest-special-path-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/3798-longest-special-path-ii) |
 ## Hash Table
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2502-sort-the-people](https://github.com/Mohammedjisam/LeetCode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohammedjisam/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Mohammedjisam/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Mohammedjisam/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/Mohammedjisam/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Mohammedjisam/LeetCode/tree/master/0200-number-of-islands) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Mohammedjisam/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
 |  |
 | ------- |
