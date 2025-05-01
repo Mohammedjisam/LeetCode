@@ -56,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Mohammedjisam/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0647-palindromic-substrings](https://github.com/Mohammedjisam/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1086-divisor-game](https://github.com/Mohammedjisam/LeetCode/tree/master/1086-divisor-game) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Mohammedjisam/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mohammedjisam/LeetCode/tree/master/0070-climbing-stairs) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Mohammedjisam/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mohammedjisam/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2181-smallest-index-with-equal-value](https://github.com/Mohammedjisam/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Mohammedjisam/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2502-sort-the-people](https://github.com/Mohammedjisam/LeetCode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Mohammedjisam/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mohammedjisam/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0655-print-binary-tree) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Mohammedjisam/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0655-print-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Mohammedjisam/LeetCode/tree/master/0832-binary-tree-pruning) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Mohammedjisam/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3798-longest-special-path-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/3798-longest-special-path-ii) |
 ## Binary Search Tree
 |  |
@@ -535,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Mohammedjisam/LeetCode/tree/master/0133-clone-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Mohammedjisam/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -553,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/Mohammedjisam/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Mohammedjisam/LeetCode/tree/master/0200-number-of-islands) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Mohammedjisam/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Mohammedjisam/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
 |  |
@@ -610,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mohammedjisam/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Topological Sort
+|  |
+| ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Mohammedjisam/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 <!---LeetCode Topics End-->
