@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/Mohammedjisam/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohammedjisam/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/Mohammedjisam/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Mohammedjisam/LeetCode/tree/master/0520-detect-capital) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mohammedjisam/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mohammedjisam/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Mohammedjisam/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Mohammedjisam/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Mohammedjisam/LeetCode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammedjisam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Mohammedjisam/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mohammedjisam/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Mohammedjisam/LeetCode/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mohammedjisam/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0822-unique-morse-code-words](https://github.com/Mohammedjisam/LeetCode/tree/master/0822-unique-morse-code-words) |
