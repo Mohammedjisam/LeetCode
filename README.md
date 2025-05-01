@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Mohammedjisam/LeetCode/tree/master/0520-detect-capital) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mohammedjisam/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Mohammedjisam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Mohammedjisam/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Mohammedjisam/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Mohammedjisam/LeetCode/tree/master/0742-to-lower-case) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Mohammedjisam/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Mohammedjisam/LeetCode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Mohammedjisam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammedjisam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mohammedjisam/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0682-baseball-game](https://github.com/Mohammedjisam/LeetCode/tree/master/0682-baseball-game) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mohammedjisam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Mohammedjisam/LeetCode/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Mohammedjisam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mohammedjisam/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0822-unique-morse-code-words](https://github.com/Mohammedjisam/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Mohammedjisam/LeetCode/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
