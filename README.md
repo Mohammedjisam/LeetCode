@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mohammedjisam/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohammedjisam/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mohammedjisam/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3687-longest-special-path](https://github.com/Mohammedjisam/LeetCode/tree/master/3687-longest-special-path) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Mohammedjisam/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3798-longest-special-path-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/3798-longest-special-path-ii) |
 ## Hash Table
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mohammedjisam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3324-split-the-array](https://github.com/Mohammedjisam/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mohammedjisam/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3687-longest-special-path](https://github.com/Mohammedjisam/LeetCode/tree/master/3687-longest-special-path) |
 | [3798-longest-special-path-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/3798-longest-special-path-ii) |
 ## Sorting
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mohammedjisam/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/Mohammedjisam/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [3311-ant-on-the-boundary](https://github.com/Mohammedjisam/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3687-longest-special-path](https://github.com/Mohammedjisam/LeetCode/tree/master/3687-longest-special-path) |
 | [3798-longest-special-path-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/3798-longest-special-path-ii) |
 ## Enumeration
 |  |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0655-print-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Mohammedjisam/LeetCode/tree/master/0832-binary-tree-pruning) |
+| [3687-longest-special-path](https://github.com/Mohammedjisam/LeetCode/tree/master/3687-longest-special-path) |
 | [3798-longest-special-path-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/3798-longest-special-path-ii) |
 ## Breadth-First Search
 |  |
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0655-print-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Mohammedjisam/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Mohammedjisam/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [3687-longest-special-path](https://github.com/Mohammedjisam/LeetCode/tree/master/3687-longest-special-path) |
 | [3798-longest-special-path-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/3798-longest-special-path-ii) |
 ## Binary Search Tree
 |  |
