@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mohammedjisam/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/Mohammedjisam/LeetCode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/Mohammedjisam/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0494-target-sum](https://github.com/Mohammedjisam/LeetCode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/Mohammedjisam/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/Mohammedjisam/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Mohammedjisam/LeetCode/tree/master/1086-divisor-game) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Mohammedjisam/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mohammedjisam/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Mohammedjisam/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Mohammedjisam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Mohammedjisam/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Mohammedjisam/LeetCode/tree/master/0506-relative-ranks) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0052-n-queens-ii) |
 | [0093-restore-ip-addresses](https://github.com/Mohammedjisam/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0494-target-sum](https://github.com/Mohammedjisam/LeetCode/tree/master/0494-target-sum) |
 ## Merge Sort
 |  |
 | ------- |
