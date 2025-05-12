@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mohammedjisam/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Mohammedjisam/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0189-rotate-array) |
+| [0587-erect-the-fence](https://github.com/Mohammedjisam/LeetCode/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammedjisam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0935-orderly-queue](https://github.com/Mohammedjisam/LeetCode/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/Mohammedjisam/LeetCode/tree/master/1013-fibonacci-number) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Mohammedjisam/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Mohammedjisam/LeetCode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0587-erect-the-fence](https://github.com/Mohammedjisam/LeetCode/tree/master/0587-erect-the-fence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohammedjisam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammedjisam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mohammedjisam/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -648,4 +650,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Mohammedjisam/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+## Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Mohammedjisam/LeetCode/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
