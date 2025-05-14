@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mohammedjisam/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Mohammedjisam/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0189-rotate-array) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0587-erect-the-fence](https://github.com/Mohammedjisam/LeetCode/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammedjisam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0935-orderly-queue](https://github.com/Mohammedjisam/LeetCode/tree/master/0935-orderly-queue) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mohammedjisam/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/Mohammedjisam/LeetCode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/Mohammedjisam/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Mohammedjisam/LeetCode/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Mohammedjisam/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0052-n-queens-ii) |
 | [0093-restore-ip-addresses](https://github.com/Mohammedjisam/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Mohammedjisam/LeetCode/tree/master/0494-target-sum) |
 ## Merge Sort
 |  |
