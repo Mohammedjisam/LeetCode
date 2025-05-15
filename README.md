@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mohammedjisam/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Mohammedjisam/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Mohammedjisam/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Mohammedjisam/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0189-rotate-array) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0587-erect-the-fence](https://github.com/Mohammedjisam/LeetCode/tree/master/0587-erect-the-fence) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Mohammedjisam/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Mohammedjisam/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohammedjisam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Mohammedjisam/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Mohammedjisam/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Mohammedjisam/LeetCode/tree/master/0242-valid-anagram) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Mohammedjisam/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohammedjisam/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Mohammedjisam/LeetCode/tree/master/0133-clone-graph) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Mohammedjisam/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Mohammedjisam/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Mohammedjisam/LeetCode/tree/master/0217-contains-duplicate) |
