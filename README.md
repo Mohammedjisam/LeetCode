@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/Mohammedjisam/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohammedjisam/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/Mohammedjisam/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0500-keyboard-row](https://github.com/Mohammedjisam/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Mohammedjisam/LeetCode/tree/master/0520-detect-capital) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Mohammedjisam/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mohammedjisam/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Mohammedjisam/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohammedjisam/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/Mohammedjisam/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mohammedjisam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Mohammedjisam/LeetCode/tree/master/0500-keyboard-row) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mohammedjisam/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0433-minimum-genetic-mutation](https://github.com/Mohammedjisam/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0655-print-binary-tree](https://github.com/Mohammedjisam/LeetCode/tree/master/0655-print-binary-tree) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Mohammedjisam/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Binary Tree
