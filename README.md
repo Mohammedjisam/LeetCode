@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Mohammedjisam/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Mohammedjisam/LeetCode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Mohammedjisam/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mohammedjisam/LeetCode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohammedjisam/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0587-erect-the-fence](https://github.com/Mohammedjisam/LeetCode/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammedjisam/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Mohammedjisam/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mohammedjisam/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Mohammedjisam/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mohammedjisam/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Mohammedjisam/LeetCode/tree/master/1013-fibonacci-number) |
 ## Brainteaser
 |  |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Mohammedjisam/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Mohammedjisam/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Mohammedjisam/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Mohammedjisam/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Mohammedjisam/LeetCode/tree/master/0389-find-the-difference) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Mohammedjisam/LeetCode/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mohammedjisam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
